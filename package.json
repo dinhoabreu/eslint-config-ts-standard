@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-ts-standard",
   "description": "An ESLint Shareable Config for TypeScript Standard Style",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Edison E. Abreu <dinho.abreu@gmail.com>",
   "main": "index.js",
   "keywords": [
