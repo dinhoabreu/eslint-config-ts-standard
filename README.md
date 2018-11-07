@@ -1,4 +1,6 @@
-# eslint-config-ts-standard [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
+# eslint-config-ts-standard
+
+[![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
 
 [npm-image]: https://img.shields.io/npm/v/eslint-config-ts-standard.svg
 [npm-url]: https://npmjs.org/package/eslint-config-ts-standard
