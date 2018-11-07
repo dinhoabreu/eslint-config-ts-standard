@@ -1,0 +1,33 @@
+{
+  "name": "eslint-config-ts-standard",
+  "description": "An ESLint Shareable Config for TypeScript Standard Style",
+  "version": "1.0.0",
+  "author": "Edison E. Abreu <dinho.abreu@gmail.com>",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "standard",
+    "typescript"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dinhoabreu/eslint-config-ts-standard/",
+  "dependencies": {
+    "ajv": "^5.5.2",
+    "eslint": "^5.8.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^8.0.0",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "eslint-plugin-typescript": "^0.13.0",
+    "typescript": "^3.1.6",
+    "typescript-eslint-parser": "^20.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dinhoabreu/eslint-config-ts-standard.git"
+  }
+}
