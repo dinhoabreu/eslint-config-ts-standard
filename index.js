@@ -1,7 +1,7 @@
 module.exports = {
   extends: require.resolve('eslint-config-standard'),
-  plugins: ['typescript'],
-  parser: require.resolve('typescript-eslint-parser'),
+  plugins: ['@typescript-eslint'],
+  parser: require.resolve('@typescript-eslint/parser'),
   rules: {
     // https://github.com/eslint/typescript-eslint-parser#known-issues
     'no-undef': 'off',
